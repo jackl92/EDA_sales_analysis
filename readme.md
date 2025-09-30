@@ -15,7 +15,11 @@ The focus is on regional breakdowns, customer insights, and product-level perfor
 <h2>📂 Contents</h2>
 <ul>
   <li><strong>sales_analysis.ipynb</strong> – main analysis and visualizations</li>
-  <li><strong>data/</strong> – source Excel sheets with sales, products, customers, and budgets</li>
+  <li><strong>/figures</strong> – collection of all generated graphs</li>
+  <li><strong>/presentations</strong> – a Keynote file and PowerPoint presentation for easy reading</li>
+  <li><strong>EDA sales analysis.pdf</strong> – a PDF version of the presentations</li>
+  <li><strong>Regional Sales Dataset.xlsx</strong> – the data file used</li>
+  <li><strong>requirements.txt</strong> – a file containing all requirements for easy reproducibility</li>
 </ul>
 
 <h2>🔧 Methods</h2>
